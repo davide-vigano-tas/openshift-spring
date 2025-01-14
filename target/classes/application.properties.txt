@@ -1,0 +1,2 @@
+spring.application.name=openshift-spring
+server.port=8080
