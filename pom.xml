@@ -15,7 +15,7 @@
 	<groupId>com.max</groupId>
 	<artifactId>OpenShiftTest</artifactId>
 	<version>1.0</version>
-	<packaging>jar</packaging>  <!-- JAR per OpenShift -->
+	<packaging>jar</packaging>
 
 	<name>openshift-spring</name>
 	<description>Esempio deploy su OpenShift</description>
